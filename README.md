@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text]<img src="https://github.com/charlesngoi/Charles_Ngoi/blob/main/images/PHOTO-2018-08-16-12-38-54.jpg" width=50% height=50%>
+![alt text]<img src="https://github.com/charlesngoi/Charles_Ngoi/blob/main/images/PHOTO-2018-08-16-12-38-54.jpg" width=20% height=20%>
 
 <!-- Add your details -->
 
