@@ -2,9 +2,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: fcngoi@gmail.com 
+&nbsp;&nbsp; 📲 +65-82885812
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/charlesngoi/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/charlesngoi/Charles_Ngoi/blob/main/images/PHOTO-2018-08-16-12-38-54.jpg)
+![alt text]<img src="https://github.com/charlesngoi/Charles_Ngoi/blob/main/images/PHOTO-2018-08-16-12-38-54.jpg" width=50% height=50%>
 
 <!-- Add your details -->
 
