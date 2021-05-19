@@ -5,7 +5,7 @@
 ✉️: fcngoi@gmail.com 
 &nbsp;&nbsp; 📲 +65-82885812
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/charlesngoi/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.linkedin.com/in/charlesngoi/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Charles Ngoi__, xxx.
 
 
 <!-- Add link to the sections -->
@@ -34,10 +34,10 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: 
+UNIT: 
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various.
 
 <!-- EXPERIENCE Section Ends -->
 
